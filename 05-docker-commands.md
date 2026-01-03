@@ -119,7 +119,7 @@ This command:
 
 ---
 
-## Important Notes (From Handwritten Notes)
+## Important Notes 
 
 - Containers are isolated by default
 - Ports must be exposed to access applications
