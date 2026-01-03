@@ -1,3 +1,45 @@
+# Docker Learning Notes 📦🐳
+
+Welcome to the **Docker Learning Notes** repository — a structured set of notes crafted during my Docker learning journey. This repo captures core Docker concepts, commands, workflows, and their relevance to modern software and AI/ML systems.
+
+These notes are created with the purpose of **helping myself and others** understand Docker fundamentals quickly and clearly. If you're learning Docker — especially in the context of ML/AI development, team projects, and cloud deployments — this repo is for you.
+
+---
+
+## 📌 Why This Repository Exists
+
+When I started learning Docker, I found a lot of content online but lacked a **single structured reference** that:
+
+- explains concepts in simple language,
+- connects ideas with practical usage,
+- and shows *why Docker matters especially for AI/ML workflows*.
+
+As part of my **open-source learning journey**, I converted my **handwritten notes** into organized markdown files so that anyone can access, use, and contribute.
+
+This repository also welcomes **pull requests** from others who want to add more notes, examples, diagrams, corrections, or explanations on important Docker topics.
+
+---
+
+## 🧠 What Docker Topics Are Covered
+
+The repository is organized into multiple markdown files covering key Docker concepts:
+
+| File | Topic | Description |
+|------|-------|-------------|
+| `00-introduction.md` | Introduction | Purpose & overview of this repo |
+| `01-why-docker.md` | Why Docker | Motivation, problems Docker solves |
+| `02-images-vs-containers.md` | Images vs Containers | Difference & analogy |
+| `03-docker-architecture.md` | Docker Architecture | Components like Engine, Daemon, CLI |
+| `04-dockerfile.md` | Dockerfile | How to write a Dockerfile |
+| `05-docker-commands.md` | Docker Commands | Essential commands explained |
+| `06-docker-compose.md` | Docker Compose | Multi-service setup for dev |
+| `07-dockerhub-and-registry.md` | Registries | Docker Hub & other registries |
+| `08-dev-vs-prod-workflow.md` | Dev vs Prod | Git + CI/CD + Docker workflow |
+| `09-docker-for-ml-ai.md` | Docker for ML/AI | How Docker supports ML projects |
+
+There are also folders:
+
+
 
 These contain **supporting materials** like scanned handwritten pages and visual diagrams for easier reference.
 
