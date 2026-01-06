@@ -1,6 +1,6 @@
 # Docker Learning Notes 📦🐳
 
-Welcome to the **Docker Learning Notes** repository — a structured set of notes crafted during my Docker learning journey. This repo captures core Docker concepts, commands, workflows, and their relevance to modern software and AI/ML systems.
+Welcome to the **Docker Learning Notes** repository — a structured set of notes crafted during my Docker learning journey. This repo captures core Docker concepts, commands, workflows, and their relevance to modern software and AI/ML systems. 
 
 These notes are created with the purpose of **helping myself and others** understand Docker fundamentals quickly and clearly. If you're learning Docker — especially in the context of ML/AI development, team projects, and cloud deployments — this repo is for you.
 
