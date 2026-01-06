@@ -49,15 +49,15 @@ docker run -d -p 5000:5000 --name house-prediction house-prediction:latest
 
 - Dockerfile structure used for the build:
 
-![Dockerfile structure for house prediction](../diagrams/DockerFile.png)
+![Dockerfile structure for house prediction](diagrams/DockerFile.png)
 
 - Image created and visible in Docker Desktop:
 
-![Image created in Docker Desktop](../diagrams/DockerImage.png)
+![Image created in Docker Desktop](diagrams/DockerImage.png)
 
 - Running container in Docker Desktop:
 
-![Running container in Docker Desktop](../diagrams/DockerContainer.png)
+![Running container in Docker Desktop](diagrams/DockerContainer.png)
 
 ## Tips
 - If your app uses a different port, update `EXPOSE` and the `-p host:container` mapping accordingly.
